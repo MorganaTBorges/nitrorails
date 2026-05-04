@@ -1,0 +1,31 @@
+{
+  "name": "MorganaTBorges",
+  "description": "Rails performance optimization plugin by Morgana Borges",
+  "owner": {
+    "name": "Morgana Borges"
+  },
+  "plugins": [
+    {
+      "name": "nitrorails",
+      "description": "Disciplined Rails performance optimization copilot — enforces measure → diagnose → optimize → verify on every task",
+      "category": "development",
+      "tags": [
+        "rails",
+        "ruby",
+        "performance",
+        "optimization",
+        "profiling",
+        "n+1",
+        "caching",
+        "activerecord",
+        "memory",
+        "database"
+      ],
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MorganaTBorges/nitrorails.git",
+        "sha": "826e176d09b4f1b855cfd9e4f944918494aecc61"
+      }
+    }
+  ]
+}
