@@ -1,0 +1,24 @@
+{
+  "name": "nitrorails",
+  "description": "Disciplined Rails performance optimization copilot — enforces measure → diagnose → optimize → verify on every task",
+  "version": "1.0.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "homepage": "https://github.com/<your-username>/nitrorails",
+  "repository": "https://github.com/<your-username>/nitrorails",
+  "license": "MIT",
+  "keywords": [
+    "rails",
+    "ruby",
+    "performance",
+    "optimization",
+    "profiling",
+    "n+1",
+    "caching",
+    "activerecord",
+    "memory",
+    "database"
+  ]
+}
