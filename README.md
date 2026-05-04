@@ -127,6 +127,8 @@ nitrorails supports three measurement layers in order of preference:
 
 ## Contributing
 
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
 Skills live directly in this repository. To contribute:
 
 1. Fork the repository
