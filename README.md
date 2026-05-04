@@ -34,7 +34,7 @@ nitrorails is a set of enforced checkpoints that prevent each of these mistakes.
 ### Claude Code (via GitHub)
 
 ```bash
-/plugin marketplace add morgana/nitrorails
+/plugin marketplace add MorganaTBorges/nitrorails
 /plugin install nitrorails@nitrorails
 ```
 
@@ -95,7 +95,7 @@ Skills live directly in this repository.
 2. Create a branch for your skill or fix
 3. Submit a PR with a description of what the skill does and when it triggers
 
-Found incorrect information or have a suggestion? Open an issue at https://github.com/morgana/nitrorails/issues
+Found incorrect information or have a suggestion? Open an issue at https://github.com/MorganaTBorges/nitrorails/issues
 
 ## License
 
