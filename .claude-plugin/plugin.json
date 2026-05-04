@@ -3,11 +3,11 @@
   "description": "Disciplined Rails performance optimization copilot — enforces measure → diagnose → optimize → verify on every task",
   "version": "1.0.0",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Morgana Borges",
+    "email": "morgana.t.borges@gmail.com"
   },
-  "homepage": "https://github.com/<your-username>/nitrorails",
-  "repository": "https://github.com/<your-username>/nitrorails",
+  "homepage": "https://github.com/morgana/nitrorails",
+  "repository": "https://github.com/morgana/nitrorails",
   "license": "MIT",
   "keywords": [
     "rails",
