@@ -33,7 +33,7 @@ The skills in nitrorails are built on knowledge from:
 
 ```bash
 /plugin marketplace add MorganaTBorges/nitrorails
-/plugin install nitrorails@nitrorails
+/plugin install nitrorails@MorganaTBorges
 ```
 
 ### Cursor
