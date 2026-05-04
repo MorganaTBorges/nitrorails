@@ -23,13 +23,7 @@ The skills in nitrorails are built on knowledge from:
 
 **Note:** Installation differs by platform. Claude Code and Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup.
 
-### Claude Code — Official Marketplace
-
-```bash
-/plugin install nitrorails@nitrorails
-```
-
-### Claude Code — via GitHub
+### Claude Code
 
 ```bash
 /plugin marketplace add MorganaTBorges/nitrorails
@@ -54,7 +48,7 @@ Fetch and follow instructions from https://raw.githubusercontent.com/MorganaTBor
 
 ```bash
 copilot plugin marketplace add MorganaTBorges/nitrorails
-copilot plugin install nitrorails@nitrorails
+copilot plugin install nitrorails@MorganaTBorges
 ```
 
 ### Gemini CLI
