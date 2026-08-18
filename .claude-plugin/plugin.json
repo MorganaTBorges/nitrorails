@@ -1,7 +1,7 @@
 {
   "name": "nitrorails",
   "description": "Disciplined Rails performance optimization copilot — enforces measure → diagnose → optimize → verify on every task",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Morgana Borges",
     "email": "morgana.t.borges@gmail.com"
